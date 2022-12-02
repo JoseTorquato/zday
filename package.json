@@ -1,0 +1,25 @@
+{
+  "name": "zday",
+  "version": "1.0.0",
+  "description": "Start the day well informed",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseTorquato/zday.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseTorquato/zday/issues"
+  },
+  "homepage": "https://github.com/JoseTorquato/zday#readme",
+  "dependencies": {
+    "aws-cdk": "^2.53.0",
+    "axios": "^1.2.0",
+    "dotenv": "^16.0.3"
+  }
+}
